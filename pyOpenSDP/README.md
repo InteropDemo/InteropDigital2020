@@ -2,8 +2,7 @@
 
 This project is a quick and dirty example on how to extend the OpenSPA and OpenS
 DP projects to be scalable witha centralize backend for the SDP and SPA discusio
-ns in the 2020 InteropNet virtual booth https://interop.app.swapcard.com/event/i
-nterop-digital-1/exhibitor/RXhoaWJpdG9yXzE4MTk2Ng%3D%3D
+ns in the 2020 InteropNet virtual booth https://interop.app.swapcard.com/event/interop-digital-1/exhibitor/RXhoaWJpdG9yXzE4MTk2Ng%3D%3D
 
 # PyOpenSDP
 
