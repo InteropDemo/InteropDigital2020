@@ -16,7 +16,7 @@ as well as a working openspa install
 I would also double check this document: [opensdp/OpenSDP Setup Tutorial.md at master · greenstatic/opensdp · GitHub](https://github.com/greenstatic/opensdp/blob/master/docs/OpenSDP%20Setup%20Tutorial.md) .  
 
 Keep in mind when reading these documents that all of the cert and key generation 
-for the clients is down by the support scripts in this project, **however** this 
+for the clients is done by the support scripts in this project, **however** this 
 project still **requires the ca and server certs to be generated manually** using 
 the openspa and opensdp documentation.   
 
